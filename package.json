@@ -1,0 +1,11 @@
+{
+  "name": "JSON",
+  "version": "1.0.0",
+  "description": "JSON is a light-weight, language independent, data interchange format.",
+  "author": "Douglas Crockford",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/volatileeight/JSON-js"
+  },
+  "license": "MIT"
+}
